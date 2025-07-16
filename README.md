@@ -1,2 +1,2 @@
 # lorenz
-kumakantot ng pwd
+
